@@ -42,19 +42,19 @@ En mis repostorios encontrarás
 |:------|:---|
 |[WhatVass](https://github.com/airaizos/PablomarkeWhatVass)|Tests unitarios, eliminación de librerías de terceros, Combine por Async Await, UIKit por SwiftUI y endPoints a API hecha en Vapor|
 |[TV Maze App Example](https://github.com/airaizos/JoseiOSdev_TvmazeAppExample)|Tests unitarios con mocks y protocolos, DiffableDataSource, uso de continuations y añadida TAb Favoritos en MVC|
-|[AppBackFront](https://github.com/airaizos/LucasnspAppBackFront)| Eliminado Alamofire, añadidos Tests unitarios, refactorización de celdas y ProfileView en SwiftUI|
+|[App Back Front](https://github.com/airaizos/LucasnspAppBackFront)| Eliminado Alamofire, añadidos Tests unitarios, refactorización de celdas y ProfileView en SwiftUI|
 |[ListToDo](https://github.com/airaizos/PopitusListToDo)|Componentizado TaskView y ListTasksView, se añade nuevo status En proceso y añadir sticker, AlertPopUp personalizado|
 |[MarvelApp](https://github.com/airaizos/PablomarkeMarvelApp)|Reemplazo de librerías AlamoFire y KingFisher por código nativo. Se añade la funcionalidad de persistencia Local para favoritos|
 
-|**Packages**|Packages en Swift|
+|**Packages**||
 |:------|:---|
-|[CoupleCare Server](https://github.com/airaizos/CoupleCareServer)|Servidor backend desarrollado en el lenguaje Swift utilizando la librería Vapor. Su propósito principal es ofrecer una API RESTful con endpoints específicos que interactúan con una base de datos para proporcionar datos a una aplicación móvil|
-|[PurpleHummingbird](https://github.com/airaizos/PurpleHummingbird)|Biblioteca que proporciona una serie de métodos y extensiones para facilitar el desarrollo de aplicaciones en Swift. Abarca peticiones de red, extensiones de tipos de datos|
+|[Couple Care Server](https://github.com/airaizos/CoupleCareServer)|Servidor backend desarrollado en el lenguaje Swift utilizando la librería Vapor. Su propósito principal es ofrecer una API RESTful con endpoints específicos que interactúan con una base de datos para proporcionar datos a una aplicación móvil|
+|[Purple Hummingbird](https://github.com/airaizos/PurpleHummingbird)|Biblioteca que proporciona una serie de métodos y extensiones para facilitar el desarrollo de aplicaciones en Swift. Abarca peticiones de red, extensiones de tipos de datos|
 
 |**UIKit**| |
 |:------|:---|
-|[BigBang Episodes](https://github.com/airaizos/BigBangUIKit)|Mobile App (iPhone, iPad) de un catálogo de los episodios de la serie BigBang Theory hecha en Swift con el framework UIKit con arquitectura MVC, storyboards, utilizando DiffableDataSource para la TableView y UnitTest|
-|[APIRest Demo](https://github.com/airaizos/APIRestDemo)|Repositorio 100% nativo en Swift en UIKIt en el que se realizan conexiones a diferentes API Rest. Para cada API he utilizado 3 diferentes patrones para manejar la asincronía: `Patrón `callback`, `Combine` y `Async-await`|
+|[Big Bang Episodes](https://github.com/airaizos/BigBangUIKit)|Mobile App (iPhone, iPad) de un catálogo de los episodios de la serie BigBang Theory hecha en Swift con el framework UIKit con arquitectura MVC, storyboards, utilizando DiffableDataSource para la TableView y UnitTest|
+|[APIRest Demo](https://github.com/airaizos/APIRestDemo)|Repositorio 100% nativo en Swift en UIKIt en el que se realizan conexiones a diferentes API Rest. Para cada API he utilizado 3 diferentes patrones para manejar la asincronía: patrón `callback`, `Combine` y `Async-await`|
 |[MovieDB](https://github.com/airaizos/adrianMovieDB)|Mobile (iPhone) del catálogo de películas proporcionado por MovieDB, en arquitectura VIPER con persistencia y test unitarios|
 
 
