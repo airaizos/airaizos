@@ -24,7 +24,7 @@ Mi otra pasión es el deporte, actualmente estoy centrado en el Crossfit, pero d
 
 |**🎙️ Podcast <br>Próxima parada: Swift**| [Spotify](https://podcasters.spotify.com/pod/show/adrintro)<br>[Próxima Parada: Swift](https://www.proximaparadaswift.dev/episodios-podcast/)|
 |------|:---|
-|![](https://www.proximaparadaswift.dev/wp-content/uploads/2024/06/8466462E-6E98-4376-B4C8-AF7882AD9ED7_1_105_c-e1719930169596.jpeg)|En octubre del 2021 comencé a contar esta aventura de convertirme en desarrollador iOS en mi podcast próxima parada Swift.<br>Con episodios quincenales mi intención es compartir mis avances, experiencias, retos, alegrías, dificultades, tristezas y lo que me pase por la cabeza en este cambio de profesión, al que yo llamo mudanza profesional.|
+|![](https://www.proximaparadaswift.dev/wp-content/uploads/2024/06/8466462E-6E98-4376-B4C8-AF7882AD9ED7_1_105_c-e1719932426419.jpeg)|En octubre del 2021 comencé a contar esta aventura de convertirme en desarrollador iOS en mi podcast próxima parada Swift.<br>Con episodios quincenales mi intención es compartir mis avances, experiencias, retos, alegrías, dificultades, tristezas y lo que me pase por la cabeza en este cambio de profesión, al que yo llamo mudanza profesional.|
 
 |🥋 Katas Swift|[KatasSwift](https://github.com/airaizos/KatasSwift)|
 |------|:---|
