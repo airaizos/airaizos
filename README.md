@@ -11,8 +11,8 @@ Mi otra pasión es el deporte, actualmente estoy centrado en el Crossfit, pero d
 
 ## Proyectos personales
 
-### 🩶 CoupleCare
-[!](https://www.proximaparadaswift.dev/wp-content/uploads/2024/03/196.png)
+### 🩶 CoupleCare 
+![](https://www.proximaparadaswift.dev/wp-content/uploads/2024/03/196.png)
 
 En abril del 2024 publiqué mi primera App en la AppStore, fruto del proyecto final del Swift Full Stack Bootcamp 2023. 
 CoupleCare está dirigida a usuarios con pareja que deseen mejorar su relación. 
@@ -22,9 +22,12 @@ Si quieres tener ideas de como demostrar afecto a tu pareja y como pasar tiempo 
 Te invito a descargarla, usarla, dejar una reseña y sugerirme lo que creas conveniente.
 
 ### 🎙️ Próxima parada: Swift
-[!](https://www.proximaparadaswift.dev/wp-content/uploads/2024/06/8466462E-6E98-4376-B4C8-AF7882AD9ED7_1_105_c.jpeg)
-[Spotify](https://podcasters.spotify.com/pod/show/adrintro)
-[Próxima Parada: Swift](https://www.proximaparadaswift.dev/episodios-podcast/)
+![](https://www.proximaparadaswift.dev/wp-content/uploads/2024/06/8466462E-6E98-4376-B4C8-AF7882AD9ED7_1_105_c.jpeg)
+
+|[Spotify](https://podcasters.spotify.com/pod/show/adrintro)|[Próxima Parada: Swift](https://www.proximaparadaswift.dev/episodios-podcast/)|
+|--------:|------------------------------------|
+
+
 En octubre del 2021 comencé a contar esta aventura de convertirme en desarrollador iOS en mi podcast próxima parada Swift.
 Con episodios quincenales mi intención es compartir mis avances, experiencias, retos, alegrías, dificultades, tristezas y lo que me pase por la cabeza en este cambio de profesión, al que yo llamo mudanza profesional.
 
