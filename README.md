@@ -8,11 +8,12 @@ Mi otra pasión es el deporte, actualmente estoy centrado en el Crossfit, pero d
 
 
 ## Tecnologías
-Lenguaje **Swift** 
-UI Frameworks **UIKit** - **SwiftUI**
-Arquitecturas **MVC** - **MVVM** - **VIPER**
-Concurrencia y Asincronía **Callbacks** - **Combine** - **Async Await**
-Testing **Test Unitarios** - **Test de integración** - **Test de interfaz**
+|Lenguaje| **Swift**| 
+|--------:|-------|
+|UI Frameworks| **UIKit** - **SwiftUI**|
+|Arquitecturas| **MVC** - **MVVM** - **VIPER**|
+|Concurrencia y Asincronía| **Callbacks** - **Combine** - **Async Await**|
+|Testing| **Test Unitarios** - **Test de integración** - **Test de interfaz**|
 
 ## Proyectos personales
 
@@ -27,7 +28,7 @@ Si quieres tener ideas de como demostrar afecto a tu pareja y como pasar tiempo 
 Te invito a descargarla, usarla, dejar una reseña y sugerirme lo que creas conveniente.
 
 ### 🎙️ Próxima parada: Swift
-![](https://www.proximaparadaswift.dev/episodios-podcast/proxima-parada-swift-1/)
+![](https://www.proximaparadaswift.dev/wp-content/uploads/2024/06/8466462E-6E98-4376-B4C8-AF7882AD9ED7_1_105_c-e1719930169596.jpeg)
 
 |[Spotify](https://podcasters.spotify.com/pod/show/adrintro)|[Próxima Parada: Swift](https://www.proximaparadaswift.dev/episodios-podcast/)|
 |--------:|------------------------------------|
@@ -42,7 +43,7 @@ Con episodios quincenales mi intención es compartir mis avances, experiencias, 
 Repositorio en el que periódicamente iré añadiendo Katas, ejercicios de programación que te reto a resolver.
 Haz un fork y en la rama unsolved encontrarás los ejercicios, descarga el package y resuélve directamente en Xcode.
 
-### Posts
+### 🔠 Posts
 
 Comparto lo que voy aprendido en Swift a través de posts que publico en [LinkedIn](https://www.linkedin.com/in/airaizos/recent-activity/all/) o en [Proxima Parada Swift](https://www.proximaparadaswift.dev/posts/).
 De la manera más concisa que puedo muestro al mundo como resolver determinados retos a los que me he enfrentado mientras programo. 
