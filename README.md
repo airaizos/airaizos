@@ -17,21 +17,21 @@ Mi otra pasión es el deporte, actualmente estoy centrado en el Crossfit, pero d
 
 ## Proyectos personales
 
-|**🩶 CoupleCare**| |
-|:---|:---|
-|[![](https://www.proximaparadaswift.dev/wp-content/uploads/2024/03/196.png)](https://apps.apple.com/es/app/couplecare/id6480206315) [![https://www.proximaparadaswift.dev/wp-content/uploads/2024/04/Consiguelo-e1719931387272.png](https://www.proximaparadaswift.dev/wp-content/uploads/2024/04/Consiguelo-e1719931387272.png)](https://apps.apple.com/es/app/couplecare/id6480206315)|En abril del 2024 publiqué mi primera App en la AppStore, fruto del proyecto final del Swift Full Stack Bootcamp 2023.<br> CoupleCare está dirigida a usuarios con pareja que deseen mejorar su relación.<br>Dispuestos a realizar un esfuerzo diario por tener detalles que la vuelvan a enamorar.<br>Comprometidos por tener momentos juntos, incrementar confianza, la comunicación y el cariño.<br>Si quieres tener ideas de como demostrar afecto a tu pareja y como pasar tiempo de calidad, CoupleCare puede ayudarte.<br>Te invito a descargarla, usarla, dejar una reseña y sugerirme lo que creas conveniente.|
-
+|**🩶 CoupleCare**| [![https://www.proximaparadaswift.dev/wp-content/uploads/2024/04/Consiguelo-e1719931387272.png](https://www.proximaparadaswift.dev/wp-content/uploads/2024/04/Consiguelo-e1719931387272.png)](https://apps.apple.com/es/app/couplecare/id6480206315)|
+|---|:---|
+|[![](https://www.proximaparadaswift.dev/wp-content/uploads/2024/03/196.png)](https://apps.apple.com/es/app/couplecare/id6480206315) |En abril del 2024 publiqué mi primera App en la AppStore, fruto del proyecto final del Swift Full Stack Bootcamp 2023.<br> CoupleCare está dirigida a usuarios con pareja que deseen mejorar su relación.<br>Dispuestos a realizar un esfuerzo diario por tener detalles que la vuelvan a enamorar.<br>Comprometidos por tener momentos juntos, incrementar confianza, la comunicación y el cariño.<br>Si quieres tener ideas de como demostrar afecto a tu pareja y como pasar tiempo de calidad, CoupleCare puede ayudarte.<br>Te invito a descargarla, usarla, dejar una reseña y sugerirme lo que creas conveniente.|
 
 
 |**🎙️ Próxima parada: Swift**| [Spotify](https://podcasters.spotify.com/pod/show/adrintro)<br>[Próxima Parada: Swift](https://www.proximaparadaswift.dev/episodios-podcast/)|
-|--------:|:------------------------------------|
+|---|:---|
 |![](https://www.proximaparadaswift.dev/wp-content/uploads/2024/06/8466462E-6E98-4376-B4C8-AF7882AD9ED7_1_105_c-e1719930169596.jpeg)|En octubre del 2021 comencé a contar esta aventura de convertirme en desarrollador iOS en mi podcast próxima parada Swift.<br> Con episodios quincenales mi intención es compartir mis avances, experiencias, retos, alegrías, dificultades, tristezas y lo que me pase por la cabeza en este cambio de profesión, al que yo llamo mudanza profesional.|
 
-|🥋 Katas Swift| [KatasSwift](https://github.com/airaizos/KatasSwift)|
-|:-----|:------|
+|🥋 Katas Swift|[KatasSwift](https://github.com/airaizos/KatasSwift)|
+|---|:---|
 |![](https://www.proximaparadaswift.dev/wp-content/uploads/2023/09/swiftLogo-e1719931235244.png)|¿Te gustan los algoritmos?<br>Repositorio en el que periódicamente iré añadiendo Katas, ejercicios de programación que te reto a resolver.<br> Haz un fork y en la rama unsolved encontrarás los ejercicios, descarga el package y resuélve directamente en Xcode.
 
-|**🔠 Posts**| [LinkedIn](https://www.linkedin.com/in/airaizos/recent-activity/all/)<br>[Proxima Parada Swift](https://www.proximaparadaswift.dev/posts/)
+|**🔠 Posts**|[LinkedIn](https://www.linkedin.com/in/airaizos/recent-activity/all/)<br>[Proxima Parada Swift](https://www.proximaparadaswift.dev/posts/)
+|---|:---|
 |![](https://www.proximaparadaswift.dev/wp-content/uploads/2023/09/airaizos_icon_logo_of_a_diary_written_with_programming_language_c2694e43-2cf0-4a88-90ea-26ee071fcccd-1-e1719931216102.png)|Comparto lo que voy aprendido en Swift a través de posts que publico periódicamente. <br>De la manera más concisa que puedo muestro al mundo como resolver determinados retos a los que me he enfrentado mientras programo.|
 
 
