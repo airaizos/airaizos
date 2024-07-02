@@ -19,14 +19,8 @@ Mi otra pasión es el deporte, actualmente estoy centrado en el Crossfit, pero d
 
 |    |     |
 |:---|:---|
-|[![](https://www.proximaparadaswift.dev/wp-content/uploads/2024/03/196.png)](https://apps.apple.com/es/app/couplecare/id6480206315)
-### 🩶 CoupleCare 
-[![https://www.proximaparadaswift.dev/wp-content/uploads/2024/04/Consiguelo-e1719931387272.png](https://www.proximaparadaswift.dev/wp-content/uploads/2024/04/Consiguelo-e1719931387272.png)](https://apps.apple.com/es/app/couplecare/id6480206315)|En abril del 2024 publiqué mi primera App en la AppStore, fruto del proyecto final del Swift Full Stack Bootcamp 2023. 
-CoupleCare está dirigida a usuarios con pareja que deseen mejorar su relación. 
-Dispuestos a realizar un esfuerzo diario por tener detalles que la vuelvan a enamorar. 
-Comprometidos por tener momentos juntos, incrementar confianza, la comunicación y el cariño.
-Si quieres tener ideas de como demostrar afecto a tu pareja y como pasar tiempo de calidad, CoupleCare puede ayudarte.
-Te invito a descargarla, usarla, dejar una reseña y sugerirme lo que creas conveniente.|
+|[![](https://www.proximaparadaswift.dev/wp-content/uploads/2024/03/196.png)](https://apps.apple.com/es/app/couplecare/id6480206315) ### 🩶 CoupleCare [![https://www.proximaparadaswift.dev/wp-content/uploads/2024/04/Consiguelo-e1719931387272.png](https://www.proximaparadaswift.dev/wp-content/uploads/2024/04/Consiguelo-e1719931387272.png)](https://apps.apple.com/es/app/couplecare/id6480206315)|En abril del 2024 publiqué mi primera App en la AppStore, fruto del proyecto final del Swift Full Stack Bootcamp 2023.<br> CoupleCare está dirigida a usuarios con pareja que deseen mejorar su relación.<br>Dispuestos a realizar un esfuerzo diario por tener detalles que la vuelvan a enamorar.<br>Comprometidos por tener momentos juntos, incrementar confianza, la comunicación y el cariño.
+Si quieres tener ideas de como demostrar afecto a tu pareja y como pasar tiempo de calidad, CoupleCare puede ayudarte.<br>Te invito a descargarla, usarla, dejar una reseña y sugerirme lo que creas conveniente.|
 
 ![](https://www.proximaparadaswift.dev/wp-content/uploads/2024/06/8466462E-6E98-4376-B4C8-AF7882AD9ED7_1_105_c-e1719930169596.jpeg)
 ### 🎙️ Próxima parada: Swift
